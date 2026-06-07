@@ -22,7 +22,7 @@ The system cycles through Green, Yellow, and Red states according to predefined 
 
 
 
-## Simulation
+## Simulation with Icarus Verilog
 
 Compile the design:
 
